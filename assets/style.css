@@ -57,4 +57,5 @@ header > img {
     padding-right:5px;
     border: 1px solid black;
     background-color: rgb(220,220,220);
+    border-radius: 15px;
 }
