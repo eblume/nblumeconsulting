@@ -59,3 +59,8 @@ header > img {
     background-color: rgb(220,220,220);
     border-radius: 15px;
 }
+
+.between {
+    list-style-type:none;
+    margin-left:50px;
+}
